@@ -1,5 +1,6 @@
 ---
 title: "Team Members"
+layout: single
 permalink: /team/
 hidden: true
 toc: true
@@ -21,7 +22,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
   <td width="25%" ><center> <img src="/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
   <td align="justify">
  
-   Update text here ...<br>
+   Dr Rasmus E. Benestad is a senior scientist and head of the Modal and Climate Analysis ('Modell og Klimaanalyse'). His background is from physics but also has long experience with statistics, in addition to a broad range of topics: climate change, climate variability, analysis, empirical-statistical downscaling, and development of methods. He also actively collaborates with international collaborations such as <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, <a href="https://ecra-climate.eu/">ECRA</a>, <a href="https://www.amap.no/">AMAP</a>, and <a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a> and has long experience in outreach and science communication, e.g. through <a href="https://www.realclimate.org/index.php/archives/author/rasmus/">RealClimate.org</a>. <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
