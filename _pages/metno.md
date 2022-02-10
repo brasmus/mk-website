@@ -21,8 +21,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
  <tr>
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
   <td align="justify">
- 
-   Update text here ...<br>
+Dr. Rasmus E. Benestad is a senior scientist and head of Model and Clmate analysis within the Research and Development department and has worked with climate analysis, climate change, cliamte variability and regional climate modelling. In particular, methods for empirical-statistical downscaling (<a href="">the R-package esd</a>) and analysis, but also outreach, communication as well as both national and international collaboration. Some of these include World Climate REsearch Programme's (WRCP) <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, European Climate Research Alliance (<a href="https://ecra-climate.eu/">ECRA</a>), The European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and Arctic Assessment and Monitoring Programme (<a href="https://www.amap.no/">AMAP</a>).   
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
